@@ -1,18 +1,24 @@
 {
-  "name": "gtranslate-io-widget-unofficial",
-  "version": "1.0.0",
-  "description": "Unofficial NPM package for gtranslate.io website translator widget free version.",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SunsetMkt/gtranslate-io-widget-unofficial.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SunsetMkt/gtranslate-io-widget-unofficial/issues"
-  },
-  "homepage": "https://github.com/SunsetMkt/gtranslate-io-widget-unofficial#readme"
+    "name": "gtranslate-io-widget-unofficial",
+    "version": "1.0.0",
+    "description": "Unofficial NPM package for gtranslate.io website translator widget free version.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SunsetMkt/gtranslate-io-widget-unofficial.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SunsetMkt/gtranslate-io-widget-unofficial/issues"
+    },
+    "homepage": "https://github.com/SunsetMkt/gtranslate-io-widget-unofficial#readme",
+    "files": [
+        "LICENSE",
+        "dist",
+        "README.md",
+        "package.json"
+    ]
 }
