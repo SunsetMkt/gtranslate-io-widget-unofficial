@@ -1,6 +1,6 @@
 {
     "name": "gtranslate-io-widget-unofficial",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Unofficial NPM package for gtranslate.io website translator widget free version.",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
         "url": "git+https://github.com/SunsetMkt/gtranslate-io-widget-unofficial.git"
     },
     "author": "",
-    "license": "ISC",
+    "license": "GPL",
     "bugs": {
         "url": "https://github.com/SunsetMkt/gtranslate-io-widget-unofficial/issues"
     },
