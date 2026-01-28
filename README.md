@@ -10,6 +10,8 @@ It seems that the main script of gtranslate.io website translator widget is not 
 
 ## Usage
 
+[![NPM Version](https://img.shields.io/npm/v/gtranslate-io-widget-unofficial)](https://www.npmjs.com/package/gtranslate-io-widget-unofficial)
+
 See [gtranslate.io's Language Selector Widget page](https://gtranslate.io/website-translator-widget).
 
 ```html
