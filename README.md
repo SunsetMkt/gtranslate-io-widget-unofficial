@@ -12,6 +12,19 @@ It seems that the main script of gtranslate.io website translator widget is not 
 
 See [gtranslate.io's Language Selector Widget page](https://gtranslate.io/website-translator-widget).
 
+```html
+<div class="gtranslate_wrapper"></div>
+<script>
+    window.gtranslateSettings = {
+        default_language: "en",
+        native_language_names: true,
+        detect_browser_language: true,
+        wrapper_selector: ".gtranslate_wrapper",
+    };
+</script>
+<script src="https://cdn.gtranslate.net/widgets/latest/float.js" defer></script>
+```
+
 ## Maintainence
 
 Download latest script from [gtranslate.io](https://gtranslate.io/download) (use [mod_gtranslate.5.0.3.zip](https://gtranslate.net/downloads/mod_gtranslate.5.0.3.zip) in this package) and put the files in `dist` directory. Remove any unused template files. Do not modify gtranslate.io's copyright notice.
